@@ -1,5 +1,5 @@
 # NoMal-Chatbot
-This is NoMal am Virtual Assistant who can help you to meet your target Nutrition.
+This is NoMal an Virtual Assistant who can help you to meet your target Nutrition.
 As a reminder, I am here to enhance your Nutrition by offering few insights and some changes to your routine diet.
 
 Overview :-
