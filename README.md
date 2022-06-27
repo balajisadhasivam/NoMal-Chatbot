@@ -47,6 +47,9 @@ Database:
 
 1) MongoDB Atlas(Nosql)
 
+Postman Collection:
+https://www.getpostman.com/collections/ada13490a8185fd61d0e
+
 FAQ:
 User query   :  What is added sugar, and why is it not healthy in food?
 Bot Response : Unlike foods and drinks that naturally contain sugar, those with added sugar provide no nutritional value.
